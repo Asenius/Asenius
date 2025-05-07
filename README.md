@@ -1,20 +1,10 @@
 # Eric Ibarra Reyes🍍
 
-### ⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️🅱️🅰️
+### Full Stack Developer
 
 ## Sobre mí🕴️
 
-### Desde que descubrí la programación sabía que era lo mío, ¡no me canso de este mundo! Toqué estudios superiores en Desarrollo de Aplicaciones Multiplataforma, y actualmente curso el programa de Full Stack Developer en la academia [4Geeks](https://4geeks.com).
-
-- 🔭 Actualmente estoy trabajando en [mi propio perfil de github](https://github.com/Asenius)
-
-- 🌱 Actualmente estoy aprendiendo **HTML5, CSS3, Bootstrap, GIT...**
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Asenius](https://github.com/Asenius)
-
-- 📫 Contacto **marcoseric111@gmail.com**
-
-- ⚡ Dato curioso... **La piña es la mejor fruta que existe👀**
+Desde que descubrí la programación sabía que era lo mío, ¡no me canso de este mundo! Toqué estudios superiores en Desarrollo de Aplicaciones Multiplataforma y he completado el programa de Full Stack Developer en la academia [4Geeks](https://4geeks.com).
 
 ### Conecta conmigo:
 
